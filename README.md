@@ -1,5 +1,6 @@
-# ReduxSimpleStarter
+# ReduxWeatherCast
 
+Provided by udemy.com's Stephen Grider
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
