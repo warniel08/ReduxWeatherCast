@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ROOT_URL = `http://samples.openweathermap.org/data/2.5/forecast?appid=${process.env.APPID_KEY}`;
+const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${process.env.APPID_KEY}`;
 
 export const FETCH_WEATHER = 'FETCH_WEATHER';
 
