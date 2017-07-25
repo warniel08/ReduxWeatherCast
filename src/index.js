@@ -6,6 +6,7 @@ import ReduxPromise from 'redux-promise';
 
 import App from './components/app';
 import reducers from './reducers';
+import API_KEY from './keys';
 
 const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
 
